@@ -1,6 +1,8 @@
 .. image:: https://travis-ci.org/scanny/python-pptx.svg?branch=master
    :target: https://travis-ci.org/scanny/python-pptx
 
+THIS FORK HAS THE LINUX FONT DIRECTORY PATCH APPLIED.
+
 *python-pptx* is a Python library for creating and updating PowerPoint (.pptx)
 files.
 
